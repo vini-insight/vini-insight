@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vini-insight
+👋 Hi, I’m @vini-insight
 
-- 🌱 I’m currently learning .NET with C#
-
-- 👀 I’m interested in ...
+🌱 I’m currently learning .NET with C#
 
 👀 But, I also have interests in:
 
@@ -18,7 +16,6 @@
 - PHP
 - CSS
 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/vini-insight/
 
 <!---
