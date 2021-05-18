@@ -16,7 +16,7 @@
 - PHP
 - CSS
 
-- 📫 How to reach me viniciusvieira.eu@gmail.com
+- 📫 Send a message: viniciusvieira.eu@gmail.com
 
 <!---
 vini-insight/vini-insight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
