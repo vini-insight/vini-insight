@@ -16,7 +16,7 @@
 - PHP
 - CSS
 
-- 📫 Send a message: viniciusvieira.eu@gmail.com
+- 📫 Send a message: https://www.linkedin.com/in/vini-insight/
 
 <!---
 vini-insight/vini-insight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
