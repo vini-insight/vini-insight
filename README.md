@@ -16,7 +16,7 @@
 - CSS
 - React
 
-- 📫 Send a message: [AQUI](https://www.linkedin.com/in/vini-insight)
+- 📫 Send a message: [HERE](https://www.linkedin.com/in/vini-insight)
 
 <!---
 vini-insight/vini-insight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
