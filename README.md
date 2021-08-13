@@ -4,9 +4,8 @@
 
 👀 But, I also have interests in:
 
-- JavaScript
 - Python
-- React
+- JavaScript
 - Java
 - SQL
 - SQL Server
@@ -15,8 +14,9 @@
 - HTML
 - PHP
 - CSS
+- React
 
-- 📫 Send a message: https://www.linkedin.com/in/vini-insight/
+- 📫 Send a message: [AQUI](https://www.linkedin.com/in/vini-insight)
 
 <!---
 vini-insight/vini-insight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
