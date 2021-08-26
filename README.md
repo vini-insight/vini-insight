@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning .NET with C#
 
-👀 But, I also have interests in: Python, JavaScript, Java, ETL, Data Engineering, Data Science, Data Analysis, Data Modeling, SQL Server, MySql, did I say JS? In addition to PHP, HTML, CSS, React
+👀 But, I also have interests in: Python, JavaScript, Java, ETL, Data Engineering, Data Science, Data Analysis, Data Modeling, SQL Server, MySql, did I say JS? In addition to PHP, HTML, CSS, React and Kotlin.
 
 📫 Send a message on [Linkedin](https://www.linkedin.com/in/vini-insight) 
 <!---
